@@ -1,0 +1,123 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6f076f19-1567-4114-9362-5814b14f5faf")
+	(paper "A4")
+	(lib_symbols)
+	(rectangle
+		(start 24.13 120.65)
+		(end 92.71 191.77)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 082a1b8f-ddfe-4b90-95c3-c731df11295d)
+	)
+	(rectangle
+		(start 106.68 17.78)
+		(end 180.34 97.79)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 176c0611-87bf-4006-bb6c-fdd934a26d98)
+	)
+	(rectangle
+		(start 102.87 120.65)
+		(end 171.45 191.77)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid a6d1fd5e-2984-44b7-bfa9-cb330cabed52)
+	)
+	(rectangle
+		(start 17.78 17.78)
+		(end 96.52 97.79)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid c885e174-b483-46cc-8e86-10901cf07a01)
+	)
+	(rectangle
+		(start 198.12 17.78)
+		(end 274.32 97.79)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid ff7126a0-9ef0-4a7c-ad62-915a7da41cf2)
+	)
+	(text "Connector"
+		(exclude_from_sim no)
+		(at 59.436 123.698 0)
+		(effects
+			(font
+				(size 3 3)
+			)
+		)
+		(uuid "08af44ce-fcfb-407b-bd0b-1e5a9d0025a2")
+	)
+	(text "Microcontroller"
+		(exclude_from_sim no)
+		(at 238.76 21.59 0)
+		(effects
+			(font
+				(size 3 3)
+			)
+		)
+		(uuid "5410e628-5bab-4d03-9ab1-1137ffb2470d")
+	)
+	(text "Rotary Encoder"
+		(exclude_from_sim no)
+		(at 138.176 123.698 0)
+		(effects
+			(font
+				(size 3 3)
+			)
+		)
+		(uuid "5b74878f-de89-4d88-8803-edb2661b4dbb")
+	)
+	(text "Power"
+		(exclude_from_sim no)
+		(at 144.272 21.082 0)
+		(effects
+			(font
+				(size 3 3)
+			)
+		)
+		(uuid "623bd9fc-97cd-4a96-a7cc-a15b5100c26b")
+	)
+	(text "USB-C"
+		(exclude_from_sim no)
+		(at 56.896 20.574 0)
+		(effects
+			(font
+				(size 3 3)
+			)
+		)
+		(uuid "91cb04c3-2b97-4b28-9637-77c8cd464c3c")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
